@@ -51,6 +51,8 @@ In development, utilizing shortcuts and organizational practices can take your p
 
 	  `⌘` + `Shift` + `S` to Save a new file
 	  
+	  `⌘` + `Shift` + `arrow key` to highlight whole lines of text
+	  
 	  `⌘` + `C` to Copy
 	  
 	  `⌘` + `V` to Paste
