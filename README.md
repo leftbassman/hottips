@@ -4,11 +4,71 @@ In development, utilizing shortcuts and organizational practices can take your p
 
 ## Terminology
 
-- Operating System - The visual interface you see on your computer. This is often known as 'Windows' or 'Mac OSX' depending on your computer.
-- Finder/Explorer - A visual representation of the files and folders on your computer. On Windows, it is called 'Windows Explorer", on Mac it is called 'Finder'.
-- File path - A path to a file or folder on a computer. Used to reference one file with another.
-- Local - Code, a file or a website that is stored/located on our physical computers.
-- Remote - Code, a file or a website that is stored/located elsewhere on the internet.
+- **Operating System** - The visual interface you see on your computer. This is often known as 'Windows' or 'Mac OSX' depending on your computer.
+- **Finder/Explorer** - A visual representation of the files and folders on your computer. On Windows, it is called 'Windows Explorer", on Mac it is called 'Finder'.
+- **File path** - A path to a file or folder on a computer. Used to reference one file with another.
+- **Local** - Code, a file or a website that is stored/located on our physical computers.
+- **Remote** - Code, a file or a website that is stored/located elsewhere on the internet.
+- **Root** - The lowest point of a project folder or a file directory.
+
+## File Paths
+
+Within HackerYou content, lessons and in online third-party tutorials, you're going to see some common syntax to represent file structure.
+
+For this bit, take the following folder structure: 
+
+```text
+- myProject
+	- images
+		- dog.jpg
+		- cat.jpg
+	- styles
+		- main.css
+	- index.html
+```
+
+We have a folder named 'myProject' that contains one single file and two folders. The single file is `index.html` and the two folders are `images` and `styles`.
+
+The `images` folder contains two files, `dog.jpg` and `cat.jpg`.
+
+The `styles` folder contains one file, `main.css`.
+
+### Referencing an internal file
+
+To reference an image, we could write the following file path that starts at the root of our folder (`myProject`), which shows the full path to the file through the folder system.
+
+```
+images/dog.jpg
+```
+
+This is how we can import files into other files, we reference the relative path. If we are using the `index.html` file, we can reference an image by creating a path to it through the project structure.
+
+**index.html**
+```html
+<img src="images/cat.jpg" alt="A cool cat!" />
+```
+
+### Going back a folder
+Using our above folder structure, what happens if we need to refer to a file in a folder that's not accessible in a linear direction like above?
+
+For this example, we'll assume that we're in the `main.css` file that is located in the `styles` folder, and we want to reference our `dog.jpg` file again.
+
+If we were to simply type `images/dog.jpg`, we would be saying that we want a folder that's in the same directory as the `main.css`, and that contains `dog.jpg`.
+
+```css
+.item {
+	background: url(images/dog.jpg);
+}
+```
+
+In fact, we need to move back a folder, into the root of the project, and then into the images folder. To accomplish this, we use `../` to say __'go back a folder'__.
+
+```css
+.item {
+	background: url(../images/dog.jpg);
+}
+```
+
 
 ## File + Folder Organization
 
