@@ -1,5 +1,14 @@
-# hottips
-A collection of Developer organizational tools and methods
+# Hot Tips
+
+In development, utilizing shortcuts and organizational practices can take your productivity to the next level. This list is a collection of tips and tricks that are important to follow to keep your process free of confusion.
+
+## Terminology
+
+- Operating System - The visual interface you see on your computer. This is often known as 'Windows' or 'Mac OSX' depending on your computer.
+- Finder/Explorer - A visual representation of the files and folders on your computer. On Windows, it is called 'Windows Explorer", on Mac it is called 'Finder'.
+- File path - A path to a file or folder on a computer. Used to reference one file with another.
+- Local - Code, a file or a website that is stored/located on our physical computers.
+- Remote - Code, a file or a website that is stored/located elsewhere on the internet.
 
 
 1. Keep files off your desktop, you should have a ~/Sites or a ~/Dropbox/sites folder to all your projects
