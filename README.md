@@ -42,7 +42,9 @@ Learn These Shortcuts. Don't use your mouse when you don't have to:
 
 `⌘` + `⌥` (option) + `←/→` move between tabs of _any_ application
 
-`⌘` + `1` (or any number up to `9`) to select specific tabs (left to right order) of _any_ application
+`⌘` + `1-8` to select specific tabs (left to right order) of _any_ application
+
+`⌘` + `9` to select the last tab of _most_ applications
 
 `⌘` + `T` to create a new tab
 
