@@ -1,6 +1,6 @@
 # Hot Tips
 
-In development, utilizing shortcuts and organizational practices can take your productivity to the next level. This list is a collection of tips and tricks that are important to follow to keep your process free of confusion.!
+In development, utilizing shortcuts and organizational practices can take your productivity to the next level. This list is a collection of tips and tricks that are important to follow to keep your process free of confusion.
 
 ## Terminology
 
