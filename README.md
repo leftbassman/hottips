@@ -31,7 +31,10 @@ In development, utilizing shortcuts and organizational practices can take your p
 	  
 	  project-2
 
-1. Learn These Shortcuts. Don't use your mouse when you don't have to:
+
+# Must Know shortcuts
+
+Learn These Shortcuts. Don't use your mouse when you don't have to:
 
 	  `⌘` + `Tab` to switch between applications. Keep holding down `⌘` and use your arrow keys to move to another application.
 
@@ -51,7 +54,11 @@ In development, utilizing shortcuts and organizational practices can take your p
 
 	  `⌘` + `Shift` + `S` to Save a new file
 	  
-	  `⌘` + `Shift` + `arrow key` to highlight whole lines of text
+	  `⌘` + `Shift` + `←/→` to highlight whole lines of text
+	  
+	  `⌥` + `←/→` to move your cursor word-by-word
+	  
+	  `⌥` + `Shift` + `←/→` to select text word-by-word 
 	  
 	  `⌘` + `C` to Copy
 	  
