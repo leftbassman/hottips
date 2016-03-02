@@ -10,6 +10,7 @@ In development, utilizing shortcuts and organizational practices can take your p
 - Local - Code, a file or a website that is stored/located on our physical computers.
 - Remote - Code, a file or a website that is stored/located elsewhere on the internet.
 
+## File + Folder Organization
 
 1. Keep files off your desktop, you should have a ~/Sites or a ~/Dropbox/sites folder to all your projects
 
