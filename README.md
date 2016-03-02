@@ -30,6 +30,8 @@ A collection of Developer organizational tools and methods
 
 	  `⌘` + `⌥` (option) + `←/→` move between tabs of _any_ application
 	  
+	  `⌘` + `1` (or any number up to `9`) to select specific tabs (left to right order) of _any_ application
+	  
 	  `⌘` + `W` to close the Current Tab
 
 	  `⌘` + `S` to Save
