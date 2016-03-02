@@ -36,36 +36,36 @@ In development, utilizing shortcuts and organizational practices can take your p
 
 Learn These Shortcuts. Don't use your mouse when you don't have to:
 
-	  `⌘` + `Tab` to switch between applications. Keep holding down `⌘` and use your arrow keys to move to another application.
+`⌘` + `Tab` to switch between applications. Keep holding down `⌘` and use your arrow keys to move to another application.
 
-	  `⌘` + `~` to switch between multiple windows of an app (Like Sublime Text)
+`⌘` + `~` to switch between multiple windows of an app (Like Sublime Text)
 
-	  `⌘` + `⌥` (option) + `←/→` move between tabs of _any_ application
-	  
-	  `⌘` + `1` (or any number up to `9`) to select specific tabs (left to right order) of _any_ application
-	  
-	  `⌘` + `T` to create a new tab
-	  
-	  `⌘` + `W` to close the Current Tab
-	  
-	  `⌘` + `Shift` + `T` to open the last closed tab
+`⌘` + `⌥` (option) + `←/→` move between tabs of _any_ application
 
-	  `⌘` + `S` to Save
+`⌘` + `1` (or any number up to `9`) to select specific tabs (left to right order) of _any_ application
 
-	  `⌘` + `Shift` + `S` to Save a new file
-	  
-	  `⌘` + `Shift` + `←/→` to highlight whole lines of text
-	  
-	  `⌥` + `←/→` to move your cursor word-by-word
-	  
-	  `⌥` + `Shift` + `←/→` to select text word-by-word 
-	  
-	  `⌘` + `C` to Copy
-	  
-	  `⌘` + `V` to Paste
+`⌘` + `T` to create a new tab
 
-	  `⌘` + `X` to Cut
+`⌘` + `W` to close the Current Tab
 
-	  `⌘` + `Z` to Undo
+`⌘` + `Shift` + `T` to open the last closed tab
 
-	  `⌘` + `Shift` + `Z` to Redo
+`⌘` + `S` to Save
+
+`⌘` + `Shift` + `S` to Save a new file
+
+`⌘` + `Shift` + `←/→` to highlight whole lines of text
+
+`⌥` + `←/→` to move your cursor word-by-word
+
+`⌥` + `Shift` + `←/→` to select text word-by-word 
+
+`⌘` + `C` to Copy
+
+`⌘` + `V` to Paste
+
+`⌘` + `X` to Cut
+
+`⌘` + `Z` to Undo
+
+`⌘` + `Shift` + `Z` to Redo
