@@ -32,7 +32,11 @@ A collection of Developer organizational tools and methods
 	  
 	  `⌘` + `1` (or any number up to `9`) to select specific tabs (left to right order) of _any_ application
 	  
+	  `⌘` + `T` to create a new tab
+	  
 	  `⌘` + `W` to close the Current Tab
+	  
+	  `⌘` + `Shift` + `T` to open the last closed tab
 
 	  `⌘` + `S` to Save
 
