@@ -7,13 +7,19 @@ A collection of Developer organizational tools and methods
 1. Folders should be all lowercase without spaces. 
   
 	  **BAD:**
+	  
 	  Hacker You Project 1
+
 	  CSS Testing
+	  
 	  ------project 2 -------
 
 	  **Good:**
+	  
 	  hackeryou_project_1
+	  
 	  css_testing
+	  
 	  project-2
 
 1. Learn These Shortcuts. Don't use your mouse when you don't have to:
