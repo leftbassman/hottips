@@ -97,7 +97,9 @@ In fact, we need to move back a folder, into the root of the project, and then i
 
 Learn These Shortcuts. Don't use your mouse when you don't have to:
 
-`⌘` + `Tab` to switch between applications. Keep holding down `⌘` and use your arrow keys to move to another application.
+`⌘` + `Tab` to switch between applications. Keep holding down `⌘` and use your arrow keys to move to another application. 
+
+`⌘` + `Tab` to switch between applications - while `⌘` is still pressed, `~` to go backward and `Tab` to go forward
 
 `⌘` + `~` to switch between multiple windows of an app (Like Sublime Text)
 
